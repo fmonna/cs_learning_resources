@@ -25,3 +25,19 @@ Chapter 5 (distributed workflows) and 7 (tools) are worth reading.
 Visual, gamified rebase/merge/cherry-pick practice. The team rebases and uses SemVer tags — this builds muscle memory.
 
 - [Conventional Commits](https://conventionalcommits.org)
+
+## Kubernetes
+
+- [Kubernetes Docs — Tutorials](https://kubernetes.io/docs/tutorials/)
+
+"Learn Kubernetes Basics" tutorial is the standard entry point.
+
+- [Killercoda](https://killercoda.com/creators/kubernetes)
+
+Real terminal in the browser against ephemeral clusters. 
+Scenarios on RBAC, networking, troubleshooting.
+
+- [Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+
+Assembles a cluster from scratch (no managed service). Hard, but it's the single best way to understand what's actually running. Do this after the book, not before.
+
