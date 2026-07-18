@@ -39,5 +39,5 @@ Scenarios on RBAC, networking, troubleshooting.
 
 - [Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
-Assembles a cluster from scratch (no managed service). Hard, but it's the single best way to understand what's actually running. Do this after the book, not before.
+Assembles a cluster from scratch (no managed service). Hard, but it's the single best way to understand what's actually running.
 
